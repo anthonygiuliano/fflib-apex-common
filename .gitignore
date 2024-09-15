@@ -50,3 +50,6 @@ package-lock.json
 
 sfdx-source/group*
 research/
+config/user
+hardis-report
+PACKAGE.md
